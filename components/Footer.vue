@@ -6,17 +6,16 @@
           <a href="#">
             <img
               class="d-inline-block align-middle"
-              src="assets/img/icons/logo.png"
+              src="~assets/img/icons/logo.png"
               alt=""
               width="30"
             />
             <span class="d-inline-block text-1000 fs-1 ms-2 fw-medium lh-base"
-              >Lasles<span class="fw-bold">VPN</span></span
+              >Stu<span class="fw-bold">Place</span></span
             ></a
           >
           <p class="my-3">
-            <span class="fw-medium">LaslesVPN </span>is a private virtual
-            network that<br />has unique features and has high security.
+            <span class="fw-medium">StuPlace </span>is a website that<br />has unique features.
           </p>
           <ul class="list-unstyled list-inline">
             <li class="list-inline-item">
