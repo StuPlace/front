@@ -11,14 +11,14 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mx-auto border-bottom border-lg-bottom-0 pt-2 pt-lg-0">
           <li class="nav-item">
-            <NuxtLink class="nav-link active active" aria-current="page" to="#about">About</NuxtLink>
+            <NuxtLink class="nav-link active active" aria-current="page" to="/" style="display:none">Home</NuxtLink>
           </li>
-          <li class="nav-item">
+          <!-- <li class="nav-item">
             <NuxtLink class="nav-link" to="#features">Features</NuxtLink>
           </li>
           <li class="nav-item">
             <NuxtLink class="nav-link" to="#pricing">Pricing </NuxtLink>
-          </li>
+          </li> -->
         </ul>
         <div class="d-flex py-3 py-lg-0">
             

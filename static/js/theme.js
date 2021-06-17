@@ -229,23 +229,6 @@ var utils = {
 
 /* -------------------------------------------------------------------------- */
 
-var detectorInit = function detectorInit() {
-  var _window = window,
-      is = _window.is;
-  var html = document.querySelector('#app');
-            is.mobile() && addClass(html, 'mobile');
-            is.firefox() && addClass(html, 'firefox');
-            is.safari() && addClass(html, 'safari');
-            is.ios() && addClass(html, 'ios');
-            is.iphone() && addClass(html, 'iphone');
-            is.ipad() && addClass(html, 'ipad');
-            is.ie() && addClass(html, 'ie');
-            is.edge() && addClass(html, 'edge');
-            is.chrome() && addClass(html, 'chrome');
-            is.mac() && addClass(html, 'osx');
-            is.windows() && addClass(html, 'windows');
-            navigator.userAgent.match('CriOS') && addClass(html, 'chrome');
-};
 /*-----------------------------------------------
 |   Top navigation opacity on scroll
 -----------------------------------------------*/
@@ -337,5 +320,4 @@ var navbarInit = function navbarInit() {
 
 
 docReady(navbarInit);
-docReady(detectorInit);
 //# sourceMappingURL=theme.js.map
