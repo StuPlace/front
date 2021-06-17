@@ -3,10 +3,10 @@
       <div class="container">
         <div class="row flex-center">
           <div class="col-md-8 col-lg-5 text-center">
-            <h2>Trusted by Thousands of<br />Happy Customer</h2>
+            <h2>Trusted by Thousands of<br />Happy Students</h2>
             <p>
               These are the stories of our customers who have joined us with
-              great pleasure when using this crazy feature.
+              great pleasure when using this crazy features.
             </p>
           </div>
         </div>
@@ -32,13 +32,13 @@
                           />
                           <div class="flex-1 ms-3">
                             <h6 class="mb-0 fs--1 text-1000 fw-medium">
-                              Viezh Robert
+                              A
                             </h6>
-                            <p class="fs--2 fw-normal mb-0">arsaw, Poland</p>
+                            <p class="fs--2 fw-normal mb-0">Buriydah, Saudi Arabia</p>
                           </div>
                         </div>
                         <div class="d-flex align-items-center">
-                          <span class="text-900 me-3">4.5</span>
+                          <span class="text-900 me-3">5</span>
                           <svg
                             class="bi bi-star-fill"
                             xmlns="http://www.w3.org/2000/svg"
@@ -54,9 +54,9 @@
                         </div>
                       </div>
                       <p class="card-text pt-3">
-                        “Wow...I am very happy to use this VPN, it turned out to
+                        “Wow...I am very happy to use this StuPlace, it turned out to
                         be more than my expectations and so far there have been
-                        no problems. LaslesVPN always the best”.
+                        no problems. StuPlace always the best”.
                       </p>
                     </div>
                   </div>

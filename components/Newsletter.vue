@@ -19,7 +19,6 @@
           </div>
         </div>
       </div>
-      <!-- end of .container-->
     </section>
 </template>
 

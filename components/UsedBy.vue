@@ -5,7 +5,7 @@
           <div class="col-6 col-sm-4 col-md-2 mb-2 mb-md-0">
             <img
               class="img-fluid"
-              src="~assets/img/gallery/netflix.png"
+              src="~assets/img/gallery/tvtc.svg"
               alt=""
               height="50"
             />

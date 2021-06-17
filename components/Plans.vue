@@ -38,7 +38,7 @@
                         <path
                           d="M10.97 4.97a.75.75 0 0 1 1.07 1.05l-3.99 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425a.267.267 0 0 1 .02-.022z"
                         ></path></svg></span
-                    >Unlimited Bandwidth
+                    >Up to 8 Semesters
                   </li>
                   <li class="mb-3">
                     <span class="me-2">
@@ -53,7 +53,7 @@
                         <path
                           d="M10.97 4.97a.75.75 0 0 1 1.07 1.05l-3.99 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425a.267.267 0 0 1 .02-.022z"
                         ></path></svg></span
-                    >Encrypted Connection
+                    >Up to 45 Classes
                   </li>
                   <li class="mb-3">
                     <span class="me-2">
@@ -68,7 +68,7 @@
                         <path
                           d="M10.97 4.97a.75.75 0 0 1 1.07 1.05l-3.99 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425a.267.267 0 0 1 .02-.022z"
                         ></path></svg></span
-                    >No Traffic Logs
+                    >Up to 15GB Files
                   </li>
                   <li class="mb-3">
                     <span class="me-2">
@@ -83,113 +83,11 @@
                         <path
                           d="M10.97 4.97a.75.75 0 0 1 1.07 1.05l-3.99 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425a.267.267 0 0 1 .02-.022z"
                         ></path></svg></span
-                    >Works on All Devices
+                    >Daily email remainder
                   </li>
                 </ul>
                 <div class="text-center my-5">
                   <h2 class="mb-3">Free</h2>
-                  <button
-                    class="btn btn-outline-danger rounded-pill"
-                    type="submit"
-                  >
-                    Sign Up
-                  </button>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 pt-4 px-md-2 px-lg-3">
-            <div class="card h-100">
-              <div
-                class="card-body d-flex flex-column justify-content-around mx-auto"
-              >
-                <div class="text-center pt-5">
-                  <img
-                    class="img-fluid"
-                    src="~assets/img/icons/pricing.png"
-                    alt=""
-                  />
-                  <h5 class="my-4">Standard Plan</h5>
-                </div>
-                <ul class="list-unstyled">
-                  <li class="mb-3">
-                    <span class="me-2">
-                      <svg
-                        class="bi bi-check"
-                        xmlns="http://www.w3.org/2000/svg"
-                        width="24"
-                        height="24"
-                        fill="#2FAB73"
-                        viewBox="0 0 16 16"
-                      >
-                        <path
-                          d="M10.97 4.97a.75.75 0 0 1 1.07 1.05l-3.99 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425a.267.267 0 0 1 .02-.022z"
-                        ></path></svg></span
-                    >Unlimited Bandwidth
-                  </li>
-                  <li class="mb-3">
-                    <span class="me-2">
-                      <svg
-                        class="bi bi-check"
-                        xmlns="http://www.w3.org/2000/svg"
-                        width="24"
-                        height="24"
-                        fill="#2FAB73"
-                        viewBox="0 0 16 16"
-                      >
-                        <path
-                          d="M10.97 4.97a.75.75 0 0 1 1.07 1.05l-3.99 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425a.267.267 0 0 1 .02-.022z"
-                        ></path></svg></span
-                    >Encrypted Connection
-                  </li>
-                  <li class="mb-3">
-                    <span class="me-2">
-                      <svg
-                        class="bi bi-check"
-                        xmlns="http://www.w3.org/2000/svg"
-                        width="24"
-                        height="24"
-                        fill="#2FAB73"
-                        viewBox="0 0 16 16"
-                      >
-                        <path
-                          d="M10.97 4.97a.75.75 0 0 1 1.07 1.05l-3.99 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425a.267.267 0 0 1 .02-.022z"
-                        ></path></svg></span
-                    >Yes Traffic Logs
-                  </li>
-                  <li class="mb-3">
-                    <span class="me-2">
-                      <svg
-                        class="bi bi-check"
-                        xmlns="http://www.w3.org/2000/svg"
-                        width="24"
-                        height="24"
-                        fill="#2FAB73"
-                        viewBox="0 0 16 16"
-                      >
-                        <path
-                          d="M10.97 4.97a.75.75 0 0 1 1.07 1.05l-3.99 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425a.267.267 0 0 1 .02-.022z"
-                        ></path></svg></span
-                    >Works on All Devices
-                  </li>
-                  <li class="mb-3">
-                    <span class="me-2">
-                      <svg
-                        class="bi bi-check"
-                        xmlns="http://www.w3.org/2000/svg"
-                        width="24"
-                        height="24"
-                        fill="#2FAB73"
-                        viewBox="0 0 16 16"
-                      >
-                        <path
-                          d="M10.97 4.97a.75.75 0 0 1 1.07 1.05l-3.99 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425a.267.267 0 0 1 .02-.022z"
-                        ></path></svg></span
-                    >Connect Anyware
-                  </li>
-                </ul>
-                <div class="text-center my-5">
-                  <h2 class="mb-3">$9<span class="text-900">/mo</span></h2>
                   <button
                     class="btn btn-outline-danger rounded-pill"
                     type="submit"
@@ -227,7 +125,7 @@
                         <path
                           d="M10.97 4.97a.75.75 0 0 1 1.07 1.05l-3.99 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425a.267.267 0 0 1 .02-.022z"
                         ></path></svg></span
-                    >Unlimited Bandwidth
+                    >Unlimited Semesters
                   </li>
                   <li class="mb-3">
                     <span class="me-2">
@@ -242,7 +140,7 @@
                         <path
                           d="M10.97 4.97a.75.75 0 0 1 1.07 1.05l-3.99 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425a.267.267 0 0 1 .02-.022z"
                         ></path></svg></span
-                    >Encrypted Connection
+                    >Unlimited Classes
                   </li>
                   <li class="mb-3">
                     <span class="me-2">
@@ -257,7 +155,7 @@
                         <path
                           d="M10.97 4.97a.75.75 0 0 1 1.07 1.05l-3.99 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425a.267.267 0 0 1 .02-.022z"
                         ></path></svg></span
-                    >Yes Traffic Logs
+                    >Unlimited Storage
                   </li>
                   <li class="mb-3">
                     <span class="me-2">
@@ -272,41 +170,11 @@
                         <path
                           d="M10.97 4.97a.75.75 0 0 1 1.07 1.05l-3.99 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425a.267.267 0 0 1 .02-.022z"
                         ></path></svg></span
-                    >Works on All Devices
-                  </li>
-                  <li class="mb-3">
-                    <span class="me-2">
-                      <svg
-                        class="bi bi-check"
-                        xmlns="http://www.w3.org/2000/svg"
-                        width="24"
-                        height="24"
-                        fill="#2FAB73"
-                        viewBox="0 0 16 16"
-                      >
-                        <path
-                          d="M10.97 4.97a.75.75 0 0 1 1.07 1.05l-3.99 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425a.267.267 0 0 1 .02-.022z"
-                        ></path></svg></span
-                    >Connect Anyware
-                  </li>
-                  <li class="mb-3">
-                    <span class="me-2">
-                      <svg
-                        class="bi bi-check"
-                        xmlns="http://www.w3.org/2000/svg"
-                        width="24"
-                        height="24"
-                        fill="#2FAB73"
-                        viewBox="0 0 16 16"
-                      >
-                        <path
-                          d="M10.97 4.97a.75.75 0 0 1 1.07 1.05l-3.99 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425a.267.267 0 0 1 .02-.022z"
-                        ></path></svg></span
-                    >Get New Features
+                    >Instant Email, SMS Reminder
                   </li>
                 </ul>
                 <div class="text-center my-5">
-                  <h2 class="mb-3">$12<span class="text-900">/mo</span></h2>
+                  <h2 class="mb-3">$1.99<span class="text-900">/mo</span></h2>
                   <button
                     class="btn btn-danger hover-top btn-glow rounded-pill border-0"
                     type="submit"
@@ -319,7 +187,6 @@
           </div>
         </div>
       </div>
-      <!-- end of .container-->
     </section>
 </template>
 
