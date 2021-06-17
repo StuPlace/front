@@ -17,7 +17,7 @@ export default {
 
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
-    '~/assets/css/theme.css',
+    '~/assets/css/theme.min.css',
     '~/assets/fonts/Rubik.css',
   ],
 
