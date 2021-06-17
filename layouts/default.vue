@@ -1,6 +1,6 @@
 <template>
   <div>
-    <Navbar />!
+    <Navbar />
     <Nuxt />
   </div>
 </template>
@@ -10,11 +10,10 @@ export default {
   head:{
     title:'Home Page',
     script: [
-      { src: '/js/bootstrap-navbar.js'},
-      {src:'/js/theme.js'}
+      { src: '/js/bootstrap-navbar.js' },
+      { src:'/js/theme.js' }
     ]
   },
 }
 </script>
-
 <style></style>

@@ -18,9 +18,17 @@
               We are providing the most customizable solution for
               <span class="fw-medium">Students. </span>
             </p>
-            <a class="btn btn-lg btn-danger hover-top btn-glow" href="#"
-              >Get Started
-            </a>
+            <!-- If user NOT logged in -->
+            <div v-if="true">
+              <NuxtLink class="btn btn-lg btn-danger hover-top btn-glow" to="/register"
+                >Get Started
+              </NuxtLink>
+            </div>
+            <div v-else>
+              <NuxtLink class="btn btn-lg btn-danger hover-top btn-glow" to="/register"
+                >Semesters
+              </NuxtLink>
+            </div>
           </div>
         </div>
       </div>
