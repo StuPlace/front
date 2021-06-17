@@ -6,7 +6,7 @@
           <a href="#">
             <img
               class="d-inline-block align-middle"
-              src="~assets/img/icons/logo.png"
+              src="https://i.ibb.co/k64kGBh/image-removebg-preview.png"
               alt=""
               width="30"
             />
