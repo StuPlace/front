@@ -4,13 +4,13 @@
         <div class="card-body">
             <div class="row h-50">
                 <div class="col-md-12 col-12 col-lg-12">
-                    <NuxtLink class="link-primary" to="2">
+                    <NuxtLink class="link-primary" :to="classes ? 'semester/'+card.id : card.id">
                         <h3>{{card.title}}</h3>
                     </NuxtLink>
                 </div>
                 <div class="row mt-3">
                     <div class="col-md-12 col-12 col-lg-12">
-                        <NuxtLink class="btn btn-outline-danger rounded-pill order-0" to="2">Continue</NuxtLink>
+                        <NuxtLink class="btn btn-outline-danger rounded-pill order-0" :to="classes ? 'semester/'+card.id : card.id">Continue</NuxtLink>
                     </div>
                 </div>
             </div>
@@ -21,7 +21,7 @@
 
 <script>
 export default {
-    props: ['background_image','card']
+    props: ['background_image','card','classes'],
 }
 </script>
 
