@@ -19,20 +19,7 @@
     
 
     <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h5 class="modal-title" id="exampleModalLabel">Create Semester</h5>
-                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                </div>
-                <div class="modal-body">
-                    <SemesterForm />
-                </div>
-                <div class="modal-footer">
-                    <button type="button" class="btn btn-outline-danger rounded-pill order-0">Create</button>
-                </div>
-            </div>
-        </div>
+        <SemesterForm creating="true"/>
     </div>
 
     
@@ -52,11 +39,6 @@ export default {
                 background: 'https://source.unsplash.com/random/200x200?sig='
             },
             background_image: true,
-            edited:{
-                title: '',
-                code: '',
-                supervisor: ''
-            }
         }
     }
 }
