@@ -38,7 +38,7 @@
                         <path
                           d="M10.97 4.97a.75.75 0 0 1 1.07 1.05l-3.99 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425a.267.267 0 0 1 .02-.022z"
                         ></path></svg></span
-                    >Up to 8 Semesters
+                    >Up to 10 Semesters
                   </li>
                   <li class="mb-3">
                     <span class="me-2">
@@ -53,7 +53,7 @@
                         <path
                           d="M10.97 4.97a.75.75 0 0 1 1.07 1.05l-3.99 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425a.267.267 0 0 1 .02-.022z"
                         ></path></svg></span
-                    >Up to 45 Classes
+                    >Up to 60 Classes
                   </li>
                   <li class="mb-3">
                     <span class="me-2">
@@ -68,7 +68,7 @@
                         <path
                           d="M10.97 4.97a.75.75 0 0 1 1.07 1.05l-3.99 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425a.267.267 0 0 1 .02-.022z"
                         ></path></svg></span
-                    >Up to 15GB Files
+                    >Up to 20GB Files
                   </li>
                   <li class="mb-3">
                     <span class="me-2">
@@ -174,10 +174,11 @@
                   </li>
                 </ul>
                 <div class="text-center my-5">
-                  <h2 class="mb-3">$1.99<span class="text-900">/mo</span></h2>
+                  <!-- <h2 class="mb-3">$1.99<span class="text-900">/mo</span></h2> -->
+                  <h2 class="mb-3">Coming<span class="text-900"> Soon</span></h2>
                   <button
                     class="btn btn-danger hover-top btn-glow rounded-pill border-0"
-                    type="submit"
+                    type="submit" disabled
                   >
                     Sign Up
                   </button>
