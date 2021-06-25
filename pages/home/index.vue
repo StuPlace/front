@@ -13,7 +13,7 @@
     <hr>
   <div class="row">
       <div v-for="i in 25" :key="i" class="col-lg-4 col-md-4 pb-4 px-4">
-        <Card :card="card" background_image="true" classes="true" />
+        <Card :card="card" background_image="true" />
       </div>
     </div>
     
