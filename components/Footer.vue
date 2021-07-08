@@ -125,7 +125,7 @@
           </ul>
         </div>
         <hr class="opacity-25" />
-        <div class="text-400 text-center">
+        <!-- <div class="text-400 text-center">
           <p>
             This template is made with&nbsp;
             <svg
@@ -146,7 +146,7 @@
               >ThemeWagon</a
             >
           </p>
-        </div>
+        </div> -->
       </div>
     </div>
   </section>
