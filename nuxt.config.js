@@ -38,10 +38,17 @@ export default {
     'bootstrap-vue/nuxt',
     // https://go.nuxtjs.dev/axios
     '@nuxtjs/axios',
+    '@nuxtjs/strapi',
   ],
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {},
+
+  // Strapi
+  strapi: {
+    entities: ['Classes', 'Semesters'],
+    url: 'http://192.168.33.33:1337'
+  },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
