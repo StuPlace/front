@@ -19,17 +19,18 @@
                 </NuxtLink>
             </li>
             <li>
-            <NuxtLink to="storage" class="nav-link link-dark">
-                <svg class="bi me-2" width="16" height="16"><use xlink:href="#speedometer2"></use></svg>
-                Storage (Still not)
-            </NuxtLink>
+                <NuxtLink to="storage" class="nav-link link-dark">
+                    <svg class="bi me-2" width="16" height="16"><use xlink:href="#speedometer2"></use></svg>
+                    Storage (Still not)
+                </NuxtLink>
             </li>
         </ul>
-        </div>
+   </div>
 </template>
 
 <script>
 export default {
+    props:['param_id']
 
 }
 </script>

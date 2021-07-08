@@ -9,13 +9,13 @@
         <div class="card-body">
             <div class="row h-50">
                 <div class="col-md-12 col-12 col-lg-12">
-                    <NuxtLink class=" link-primary" :to="classes ? 'class/'+card.id : 'semester/'+card.id">
+                    <NuxtLink class=" link-primary" :to="classes ? '/class/'+card.id+'/' : 'semester/'+card.id">
                         <h3>{{card.title}}</h3>
                     </NuxtLink>
                 </div>
                 <div class="row mt-3">
                     <div class="col-md-12 col-12 col-lg-12">
-                        <NuxtLink class="btn btn-outline-danger rounded-pill order-0" :to="classes ? '/class/'+card.id : 'semester/'+card.id">Continue</NuxtLink>
+                        <NuxtLink class="btn btn-outline-danger rounded-pill order-0" :to="classes ? '/class/'+card.id+'/' : 'semester/'+card.id">Continue</NuxtLink>
                     </div>
                 </div>
             </div>
